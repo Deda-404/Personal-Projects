@@ -1,7 +1,3 @@
-//
-// Created by alex on 02/06/2020.
-//
-
 #ifndef ESAMEFLOTTA_COMPITO_H
 #define ESAMEFLOTTA_COMPITO_H
 #include <iostream>
