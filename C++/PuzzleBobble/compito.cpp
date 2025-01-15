@@ -1,7 +1,3 @@
-//
-// Created by alex on 07/02/2020.
-//
-
 #include "compito.h"
 
 PuzzleBobble::PuzzleBobble() {
