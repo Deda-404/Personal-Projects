@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alex/CLionProjects/EsameFlotta/compito.cpp
+compito.h
+C:/Users/alex/CLionProjects/EsameFlotta/compito.h
+
+C:/Users/alex/CLionProjects/EsameFlotta/compito.h
+iostream
+-
+
+C:/Users/alex/CLionProjects/EsameFlotta/main.cpp
+compito.h
+C:/Users/alex/CLionProjects/EsameFlotta/compito.h
+iostream
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alex/CLionProjects/EsameProntoSoccorso2/compito.cpp
+compito.h
+C:/Users/alex/CLionProjects/EsameProntoSoccorso2/compito.h
+cstring
+-
+
+C:/Users/alex/CLionProjects/EsameProntoSoccorso2/compito.h
+iostream
+-
+
