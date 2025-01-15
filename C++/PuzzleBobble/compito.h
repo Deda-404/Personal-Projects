@@ -1,7 +1,3 @@
-//
-// Created by alex on 07/02/2020.
-//
-
 #ifndef ESAMEPUZZLEBOBBLE2_COMPITO_H
 #define ESAMEPUZZLEBOBBLE2_COMPITO_H
 #include <iostream>
