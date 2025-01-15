@@ -1,7 +1,3 @@
-//
-// Created by alex on 29/06/2020.
-//
-
 #ifndef ESAMETODOLIST_COMPITO_H
 #define ESAMETODOLIST_COMPITO_H
 
