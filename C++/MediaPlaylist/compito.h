@@ -1,7 +1,3 @@
-//
-// Created by alex on 05/02/2020.
-//
-
 #ifndef ESAMEMEDIAPLAYLIST_COMPITO_H
 #define ESAMEMEDIAPLAYLIST_COMPITO_H
 
