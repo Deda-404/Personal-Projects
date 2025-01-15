@@ -1,7 +1,3 @@
-//
-// Created by alex on 06/02/2020.
-//
-
 #ifndef ESAMESNAKE_COMPITO_H
 #define ESAMESNAKE_COMPITO_H
 #define MAXLEN 9
