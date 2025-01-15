@@ -1,7 +1,3 @@
-//
-// Created by alex on 30/06/2020.
-//
-
 #ifndef ESAMEPRONTOSOCCORSO2_COMPITO_H
 #define ESAMEPRONTOSOCCORSO2_COMPITO_H
 #include <iostream>
