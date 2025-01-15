@@ -1,7 +1,3 @@
-//
-// Created by alex on 30/06/2020.
-//
-
 #include "compito.h"
 #include <cstring>
 
