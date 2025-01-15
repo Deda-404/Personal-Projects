@@ -9,3 +9,11 @@ The languages are organized into folders:
 - **Rust**: Currently learning
 - **Go**: Currently learning
 - **Java**: Currently learning
+
+Extra :
+- **Canva**: Advanced knowledge
+- **Verilog**: Basic knowledge
+- **Matlab**: Basic knowledge
+- **Excel**: Basic knowledge
+- **AutoCAD**: Basic knowledge
+- **Latex**: Currently learning
