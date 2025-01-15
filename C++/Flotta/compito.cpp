@@ -1,6 +1,3 @@
-//
-// Created by alex on 02/06/2020.
-//
 
 #include "compito.h"
 
