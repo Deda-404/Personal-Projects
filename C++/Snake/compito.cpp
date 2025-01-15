@@ -1,7 +1,3 @@
-//
-// Created by alex on 06/02/2020.
-//
-
 #include "compito.h"
 
 Snake::Snake(int r1, int c1) {
