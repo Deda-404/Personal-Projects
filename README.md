@@ -17,3 +17,11 @@ Extra :
 - **Excel**: Basic knowledge
 - **AutoCAD**: Basic knowledge
 - **Latex**: Currently learning
+- **Jupyter notebook**: Currently learning
+
+HARDWARE :
+- **Computer building**: Advanced knowledge
+- **Using Arduino**: Basic knowledge
+- **Using Elegoo**: Basic knowledge
+- **Raspberry pi**: Basic knowledge
+- **Flipper Zero**: Currently learning
